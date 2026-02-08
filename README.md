@@ -49,10 +49,12 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Stack & Tools
 
-### 🚀 Languages
+### 🚀 Languages 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,c,cs,java,react,threejs,wasm&theme=dark&perline=11" />
 </p>
+
+
 
 ### 🧠 AI / ML & Frameworks
 <p align="center">
@@ -66,17 +68,15 @@
 
 ### 🛠️ Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,npm,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,blender,npm,linux,wordpress&theme=dark&perline=10" />
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7-code&layout=compact&langs_count=7&theme=dark"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7-code&theme=dark" alt="GitHub Streak" />
