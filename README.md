@@ -22,7 +22,7 @@
 📧 **Email Me:** ✉️ **mughiraasad6@gmail.com** - For Collaboration/Projects or Anything Else! 😊
 
 - 🔭 **I'm currently working on:** My Final Year Project (AI + Web Based)
-- 🌱 **I'm currently learning:** Generative AI, LLMs 
+- 🌱 **I'm currently learning:** Generative AI, LLMs, AI Agents
 - 💬 **Ask me about:** Full Stack Development, GenAI, APIs, Deployment
 - 😄 **Pronouns:** Mughira
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me Back! 💙
