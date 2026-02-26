@@ -98,7 +98,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276c0b98-a2e4-4d8c-9c0f-8c97b2d1e0c3.png" width="30" /> Random Dev Quote
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276c0b98-a2e4-4d8c-9c0f-8c97b2d1e0c3.png" width="30" /> Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
