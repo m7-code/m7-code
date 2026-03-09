@@ -51,7 +51,7 @@
 
 ### 🚀 Languages 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,c,cs,java,react,threejs,wasm&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,c,cs,java,react,threejs,=dark&perline=11" />
 </p>
 
 
