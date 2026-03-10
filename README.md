@@ -11,10 +11,8 @@
 <!-- ANIMATED WORKSPACE GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-  <br>
 </div>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
@@ -43,18 +41,19 @@
   <a href="mailto:mughiraasad6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/923184533738">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Tech Stack & Tools
 
-### 🚀 Languages 
+### 🚀 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,c,cs,java,react,threejs,=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,c,cs,java,react,threejs&theme=dark&perline=11" />
 </p>
-
-
 
 ### 🧠 AI / ML & Frameworks
 <p align="center">
@@ -71,30 +70,21 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,blender,npm,linux,wordpress&theme=dark&perline=10" />
 </p>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7-code&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🐍 
-
-<!-- Snake Game Repo View -->
+## 🐍
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -108,28 +98,17 @@
 
 ## 🚀 Live Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-      <b>🔹 Car Price Predictor</b><br>
-      <a href="https://carpredictor6.xo.je/" target="_blank">
-        <img src="https://img.shields.io/badge/View_Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-      <b>🔹 Car Price API</b><br>
-      <a href="https://car-price-api-production.up.railway.app/" target="_blank">
-        <img src="https://img.shields.io/badge/View_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🌐 Project | 🔗 Link |
+|:---:|:---:|
+| **💼 Portfolio Website** | [![Portfolio](https://img.shields.io/badge/View_Live-7DF9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-one-blue-55.vercel.app/) |
+| **🚗 Car Price Predictor** | [![Live](https://img.shields.io/badge/View_Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://carpredictor6.xo.je/) |
+| **⚙️ Car Price API** | [![API](https://img.shields.io/badge/View_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)](https://car-price-api-production.up.railway.app/) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
