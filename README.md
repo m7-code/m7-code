@@ -19,11 +19,9 @@
 
 📧 **Email Me:** ✉️ **mughiraasad6@gmail.com** - For Collaboration/Projects or Anything Else! 😊
 
-- 🔭 **I'm currently working on:** My Final Year Project (AI + Web Based)
-- 🌱 **I'm currently learning:** Generative AI, LLMs, AI Agents
-- 💬 **Ask me about:** Full Stack Development, GenAI, APIs, Deployment
+- 🌱 **I'm currently learning:** LLMs, AI Agents
+- 💬 **Ask me about:** Full Stack Development, AI, Deep Learning, ML, APIs, Deployment
 - 😄 **Pronouns:** Mughira
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me Back! 💙
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -57,7 +55,7 @@
 
 ### 🧠 AI / ML & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,laravel,dotnet&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,flask,laravel,dotnet&theme=dark&perline=7" />
 </p>
 
 ### 🗄️ Databases & Cloud
