@@ -55,7 +55,7 @@
 
 ### 🧠 AI / ML & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,flask,laravel,dotnet&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,flask,laravel,nodejs&theme=dark&perline=7" />
 </p>
 
 ### 🗄️ Databases & Cloud
