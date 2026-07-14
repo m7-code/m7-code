@@ -101,8 +101,6 @@
 | 🌐 Project | 🔗 Link |
 |:---:|:---:|
 | **💼 Portfolio Website** | [![Portfolio](https://img.shields.io/badge/View_Live-7DF9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-one-blue-55.vercel.app/) |
-| **🚗 Car Price Predictor** | [![Live](https://img.shields.io/badge/View_Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://carpredictor6.xo.je/) |
-| **⚙️ Car Price API** | [![API](https://img.shields.io/badge/View_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)](https://car-price-api-production.up.railway.app/) |
 | **🫁 PneumoFusion (AI Diagnosis)** | [![Live](https://img.shields.io/badge/View_Live-A259FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pneumofusion.gt.tc/) |
 | **🔬 Pneumonia Detection API** | [![API](https://img.shields.io/badge/View_API-00C49A?style=for-the-badge&logo=fastapi&logoColor=white)](https://m7-code-pneumonia-api.hf.space) |
 
