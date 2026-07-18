@@ -101,8 +101,9 @@
 | 🌐 Project | 🔗 Link |
 |:---:|:---:|
 | **💼 Portfolio Website** | [![Portfolio](https://img.shields.io/badge/View_Live-7DF9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-one-blue-55.vercel.app/) |
-| **🫁 PneumoFusion (AI Diagnosis)** | [![Live](https://img.shields.io/badge/View_Live-A259FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pneumofusion.gt.tc/) |
+| **🫁 PneumoFusion (AI Diagnosis)** | [![Live](https://img.shields.io/badge/View_Live-A259FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pneumonia-web-mern.vercel.app/) |
 | **🔬 Pneumonia Detection API** | [![API](https://img.shields.io/badge/View_API-00C49A?style=for-the-badge&logo=fastapi&logoColor=white)](https://m7-code-pneumonia-api.hf.space) |
+| **🔬 Pneumonia Detection API Grad-CAM** | [![API](https://img.shields.io/badge/View_API-00C49A?style=for-the-badge&logo=fastapi&logoColor=white)](https://huggingface.co/spaces/m7-code/pneumofusion) |
 
 </div>
 
