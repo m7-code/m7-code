@@ -19,8 +19,8 @@
 
 📧 **Email Me:** ✉️ **mughiraasad6@gmail.com** - For Collaboration/Projects or Anything Else! 😊
 
-- 🌱 **I'm currently learning:** LLMs, AI Agents
-- 💬 **Ask me about:** Full Stack Development, AI, Deep Learning, ML, APIs, Deployment
+- 🌱 **I'm currently learning:** langchain
+- 💬 **Ask me about:** Full Stack Development, AI, Deep Learning, ML, Ai Agents, Deployment
 - 😄 **Pronouns:** Mughira
 
 <div align="center">
